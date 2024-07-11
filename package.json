@@ -2,7 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/victorydavidson/myportfolio.git",
+  "homepage": "victorydavidson.github.io/myportfolio/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
